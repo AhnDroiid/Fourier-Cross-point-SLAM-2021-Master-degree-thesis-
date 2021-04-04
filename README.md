@@ -1,4 +1,4 @@
-# Master-degree-thesis-code-
+# Master degree thesis code
 
 
 Seoul National University
